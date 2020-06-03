@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Edge2.Portal", "Edge2.Portal\Edge2.Portal.njsproj", "{6CD22275-60D3-4C4B-BD03-3A8BCF8A2FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edge2.WebAPIs", "Edge2.WebAPIs\Edge2.WebAPIs.csproj", "{B9F4DBB7-C0C6-4675-9443-16420359856D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD22275-60D3-4C4B-BD03-3A8BCF8A2FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD22275-60D3-4C4B-BD03-3A8BCF8A2FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD22275-60D3-4C4B-BD03-3A8BCF8A2FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F4DBB7-C0C6-4675-9443-16420359856D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F4DBB7-C0C6-4675-9443-16420359856D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F4DBB7-C0C6-4675-9443-16420359856D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F4DBB7-C0C6-4675-9443-16420359856D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D6D467-7B77-4985-BF03-C4506ACABA36}
+	EndGlobalSection
+EndGlobal
