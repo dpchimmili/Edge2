@@ -1,6 +1,6 @@
 # Edge2.0
 To view the applications in action, check the links below.<br/>
-React APP - https://edge2-portal.herokuapp.com/<br/>
+React App - https://edge2-portal.herokuapp.com/<br/>
 WebAPI - https://edge2-webapi.herokuapp.com/<br/>
 Use Edge2User / Edge2$ as admin credentials to login to React App.<br/><br/>
 Edge 2.0 sample solution consists of .NET 3.1 Web API and ReactJs projects.<br/>
